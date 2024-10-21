@@ -1,2 +1,7 @@
 # AppImage-Manager
-A simple program to manage .AppImages the way I like
+A simple program to manage `.AppImage`s the way I like
+
+# Build Instructions:
+```bash
+nim c main.nim
+```
